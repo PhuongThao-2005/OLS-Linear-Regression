@@ -41,16 +41,6 @@ Bộ dữ liệu **Student Performance** bao gồm **10.000** dòng dữ liệu.
 -   **Ngôn ngữ:** Python
 -   **Phân tích Dữ liệu (EDA):** `Pandas`, `NumPy`
 -   **Trực quan hóa:** `Matplotlib`, `Seaborn`
--   **Xây dựng Mô hình:** `Scikit-learn` (Linear Regression, Ridge, Lasso)
+-   **Xây dựng Mô hình:** `Scikit-learn` (Linear Regression)
 -   **Đánh giá:** `Scikit-learn` (cross_val_score, mean_absolute_error)
 
----
-
-## 🛠️ Hướng dẫn Cài đặt & Chạy Đồ án
-
-### 1. Cài đặt Môi trường
-```bash
-# Tạo môi trường ảo (khuyến khích)
-python -m venv venv
-source venv/bin/activate  # Trên Linux/macOS
-.\venv\Scripts\activate   # Trên Windows
